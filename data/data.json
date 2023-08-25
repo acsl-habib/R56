@@ -1,0 +1,259 @@
+[
+     {
+          "batch": "R-56",
+          "round": "56",
+          "title": "esad-cs",
+          "quizzes": [
+               {
+                    "module": "01",
+                    "no": 1,
+                    "date": "Aug.25.2023",
+                    "coverage": "Databases and SQL",
+                    "folder": "M1/SQL01"
+               },
+               {
+                    "module": "01",
+                    "no": 2,
+                    "date": "Aug.25.2023",
+                    "coverage": "Databases and SQL",
+                    "folder": "M1/SQL02"
+               },
+               {
+                    "module": "01",
+                    "no": 3,
+                    "date": "Aug.25.2023",
+                    "coverage": "Management Studio",
+                    "folder": "M1/SQL03"
+               },
+               {
+                    "module": "01",
+                    "no": 4,
+                    "date": "Aug.25.2023",
+                    "coverage": "Table JOIN",
+                    "folder": "M1/SQL04"
+               },
+               {
+                    "module": "01",
+                    "no": 5,
+                    "date": "Aug.25.2023",
+                    "coverage": "Upto JOIN",
+                    "folder": "M1/SQL05"
+               },
+               {
+                    "module": "01",
+                    "no": 6,
+                    "date": "Aug.25.2023",
+                    "coverage": "Data from single table",
+                    "folder": "M1/SQL06"
+               },
+               {
+                    "module": "01",
+                    "no": 7,
+                    "date": "Aug.25.2023",
+                    "coverage": "Sub-query",
+                    "folder": "M1/SQL07"
+               },
+               {
+                    "module": "01",
+                    "no": 8,
+                    "date": "Aug.25.2023",
+                    "coverage": "Sub-query",
+                    "folder": "M1/SQL08"
+               },
+               {
+                    "module": "01",
+                    "no": 9,
+                    "date": "Aug.25.2023",
+                    "coverage": "Insert/update/delete",
+                    "folder": "M1/SQL09"
+               },
+               {
+                    "module": "01",
+                    "no": 9,
+                    "date": "Aug.25.2023",
+                    "coverage": "Data types",
+                    "folder": "M1/SQL10"
+               },
+               {
+                    "module": "01",
+                    "no": 10,
+                    "date": "Aug.25.2023",
+                    "coverage": "Built-in functions",
+                    "folder": "M1/SQL11"
+               },
+               {
+                    "module": "01",
+                    "no": 10,
+                    "date": "Aug.25.2023",
+                    "coverage": "Data types",
+                    "folder": "M1/SQL10"
+               },
+               {
+                    "module": "01",
+                    "no": 11,
+                    "date": "Aug.25.2023",
+                    "coverage": "Built-in functions",
+                    "folder": "M1/SQL11"
+               },
+               {
+                    "module": "01",
+                    "no": 12,
+                    "date": "AAug.25.2023",
+                    "coverage": "Mock",
+                    "folder": "https://forms.gle/WahLyGDdyDJ49yui6"
+               },
+               {
+                    "module": "01",
+                    "no": 13,
+                    "date": "Aug.25.2023",
+                    "coverage": "DDL, DML",
+                    "folder": "M1/SQL13"
+               },
+               {
+                    "module": "01",
+                    "no": 14,
+                    "date": "Aug.25.2023",
+                    "coverage": "Scripts",
+                    "folder": "M1/SQL14"
+               },
+               {
+                    "module": "01",
+                    "no": 15,
+                    "date": "Aug.25.2023",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/BgCCnLLyq4"
+               },
+               {
+                    "module": "01",
+                    "no": 16,
+                    "date": "Aug.25.2023",
+                    "coverage": "Design database",
+                    "folder": "https://forms.office.com/r/kgchABYbQw"
+               },
+               {
+                    "module": "01",
+                    "no": 17,
+                    "date": "Aug.25.2023",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/AM2YUBxa8L"
+               },
+               {
+                    "module": "01",
+                    "no": 18,
+                    "date": "Aug.25.2023",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/h7YM3yPFtD"
+               },
+               {
+                    "module": "01",
+                    "no": "17",
+                    "date": "Aug.27.2023",
+                    "coverage": "mock",
+                    "folder": "https://forms.gle/gKZgdLZcyLmKFqpt5"
+               },
+               {
+                    "module": "01",
+                    "no": "18",
+                    "date": "Aug.27.2023",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/AM2YUBxa8L"
+               },
+               {
+                    "module": "01",
+                    "no": "19",
+                    "date": "Aug.27.2023",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/TSV3RvQCYr"
+               },
+               {
+                    "module": "01",
+                    "no": "20",
+                    "date": "Aug.27.2023",
+                    "coverage": "Mock",
+                    "folder": "https://forms.gle/GosDT6j9JZ9E2BZt8"
+               },
+               {
+                    "module": "01",
+                    "no": "21",
+                    "date": "Aug.27.2023",
+                    "coverage": "Mock",
+                    "folder": "https://forms.gle/kzjNhLh7DzSh7V6A6"
+               },
+               {
+                    "module": "01",
+                    "no": "22",
+                    "date": "Aug.27.2023",
+                    "coverage": "Mock",
+                    "folder": "https://forms.office.com/r/AM2YUBxa8L"
+               },
+               {
+                    "module": "02",
+                    "no": "1",
+                    "date": "Sep.03.2022",
+                    "coverage": "Variables, Operators",
+                    "folder": "M2/CS01"
+               },
+               {
+                    "module": "02",
+                    "no": "2",
+                    "date": "Sep.04.2022",
+                    "coverage": "Methods",
+                    "folder": "M2/CS02"
+               },
+               {"module": "02", "no": 3, "date": "Sep.05.2022", "coverage":"Decision statemets" , "folder":"M2/CS03"},
+               {"module": "02", "no": 4, "date": "Sep.05.2022", "coverage":"Compound statemets" , "folder":"M2/CS04"},
+               {"module": "02", "no": 5, "date": "Sep.07.2022", "coverage":"Exceptions" , "folder":"M2/CS05"},
+               {"module": "02", "no": 6, "date": "Sep.07.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/CEGkJ2jUZD"},
+               {"module": "02", "no": 7, "date": "Sep.10.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/hYWQ1q4jRP"},
+               {"module": "02", "no": 8, "date": "Sep.18.2022", "coverage":"Classes" , "folder":"M2/CS06"},
+               {"module": "02", "no": 9, "date": "Sep.19.2022", "coverage":"Value & Reference" , "folder":"M2/CS07"},
+               {"module": "02", "no": 10, "date": "Sep.19.2022", "coverage":"Stuct & Enum" , "folder":"M2/CS08"},
+               {"module": "02", "no": 11, "date": "Sep.21.2022", "coverage":"Arrays" , "folder":"M2/CS09"},
+               {"module": "02", "no": 12, "date": "Sep.21.2022", "coverage":"Params Array" , "folder":"M2/CS10"},
+               {"module": "02", "no": 13, "date": "Sep.21.2022", "coverage":"Inheritence" , "folder":"M2/CS11"},
+               {"module": "02", "no": 14, "date": "Sep.22.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/KWEvSs5s5j"},
+               {"module": "02", "no": 15, "date": "Sep.22.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/Ujkc2uG505"},
+               {"module": "02", "no": 16, "date": "Oct.06.2022", "coverage":"Interface, Abstract class" , "folder":"M2/CS12"},
+               {"module": "02", "no": 17, "date": "Oct.06.2022", "coverage":"Properties, Binary data" , "folder":"M2/CS13"},
+               {"module": "02", "no": 18, "date": "Oct.06.2022", "coverage":"Generics" , "folder":"M2/CS14"},
+               {"module": "02", "no": 19, "date": "Oct.06.2022", "coverage":"Generics" , "folder":"M2/CS15"},
+               {"module": "02", "no": 20, "date": "Oct.06.2022", "coverage":"Collections" , "folder":"M2/CS16"},
+               {"module": "02", "no": 21, "date": "Oct.06.2022", "coverage":"Mock" , "folder":"M2/CSMock03"},
+               {"module": "02", "no": 22, "date": "Oct.06.2022", "coverage":"Mock" , "folder":"M2/CSMock04"},
+               {"module": "02", "no": 23, "date": "Oct.09.2022", "coverage":"Mock" , "folder":"https://forms.gle/gdnCexrqhaCtUVFs9"},
+               {"module": "03", "no": 1, "date": "Oct.19.2022", "coverage":"Activity diagram" , "folder":"M3/OOSAD01"},
+               {"module": "03", "no": 2, "date": "Oct.19.2022", "coverage":"Communication diagram" , "folder":"M3/OOSAD02"},
+               {"module": "03", "no": 3, "date": "Oct.19.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD03"},
+               {"module": "03", "no": 4, "date": "Nov.01.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD06"},
+               {"module": "03", "no": 5, "date": "Nov.01.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD07"},
+               {"module": "03", "no": 6, "date": "Nov.01.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD08"},
+               {"module": "03", "no": 7, "date": "Nov.01.2022", "coverage":"Diagrams" , "folder":"M3/OOSAD09"},
+               {"module": "04", "no": 1, "date": "Nov.11.2022", "coverage":"HTML5" , "folder":"M4/HTML_CSS_JS01"},
+               {"module": "04", "no": 2, "date": "Nov.11.2022", "coverage":"HTML5" , "folder":"M4/HTML_CSS_JS02"},
+               {"module": "04", "no": 3, "date": "Nov.12.2022", "coverage":"OOSAD & HTML5" , "folder":"M4/OOSAD_HTML_Mock_01"},
+               {"module": "04", "no": 4, "date": "Nov.12.2022", "coverage":"JavaScript" , "folder":"M4/HTML_CSS_JS03"},
+               {"module": "04", "no": 5, "date": "Nov.12.2022", "coverage":"CSS" , "folder":"M4/HTML_CSS_JS04"},
+               {"module": "04", "no": 6, "date": "Nov.29.2022", "coverage":"HTML5" , "folder":"M4/HTML_CSS_JS05"},
+               {"module": "04", "no": 7, "date": "Nov.29.2022", "coverage":"WebSite & Service" , "folder":"M4/HTML_CSS_JS06"},
+               {"module": "04", "no": 8, "date": "Nov.29.2022", "coverage":"Mock" , "folder":"M4/HTML_CSS_JS_Mock01"},
+               {"module": "04", "no": 9, "date": "Nov.29.2022", "coverage":"Mock" , "folder":"M4/HTML_CSS_JS_Mock02"},
+               {"module": "04", "no": 10, "date": "Nov.29.2022", "coverage":"Mock" , "folder":"M4/HTML_CSS_JS_Mock03"},
+               {"module": "04", "no": 11, "date": "Nov.29.2022", "coverage":"Mock" , "folder":"M4/HTML_CSS_JS_Mock04"},
+               {"module": "04", "no": 12, "date": "Nov.29.2022", "coverage":"Forms" , "folder":"M4/HTML_CSS_JS07"},
+               {"module": "04", "no": 13, "date": "Nov.29.2022", "coverage":"Websites" , "folder":"M4/HTML_CSS_JS08"},
+               {"module": "04", "no": 14, "date": "Nov.29.2022", "coverage":"Async Operation" , "folder":"M4/HTML_CSS_JS09"},
+               {"module": "04", "no": 15, "date": "Nov.29.2022", "coverage":"WebSocket" , "folder":"M4/HTML_CSS_JS10"},
+               {"module": "04", "no": 16, "date": "Nov.29.2022", "coverage":"Multimedia" , "folder":"M4/HTML_CSS_JS11"},
+               {"module": "04", "no": 17, "date": "Nov.29.2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/1ZAU1Qa2Xv"},
+               {"module": "07", "no": 1, "date": "Feb 07 2023", "coverage":"MVC Controllers" , "folder":"M7/MVC01"},
+               {"module": "07", "no": 2, "date": "Feb 07 2023", "coverage":"MVC views" , "folder":"M7/MVC02"},
+               {"module": "07", "no": 3, "date": "Feb 07 2023", "coverage":"Model-binding " , "folder":"M7/MVC03"},
+               {"module": "07", "no": 4, "date": "Feb 07 2023", "coverage":"Mock" , "folder":"https://forms.office.com/r/UBjSDJQxZ6"},
+               {"module": "07", "no": 5, "date": "Feb 07 2023", "coverage":"Input forms" , "folder":"M7/MVC05"},
+               {"module": "07", "no": 6, "date": "Feb 07 2023", "coverage":"Application aspects & security" , "folder":"M7/MVC06"},
+               {"module": "07", "no": 7, "date": "Feb 07 2023", "coverage":"Design & customize controller" , "folder":"M7/MVC07"},
+               {"module": "07", "no": 8, "date": "Feb 07 2023", "coverage":"Web api basics" , "folder":"M7/MVC08"},
+               {"module": "07", "no": 9, "date": "Feb 07 2023", "coverage":"Mock" , "folder":" https://forms.office.com/r/q8esPVxS88"}
+          ]
+     }
+]
